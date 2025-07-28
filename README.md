@@ -1,7 +1,6 @@
 - 👋 Hi, I’m new data learner who is transitioning career
-- 👀 I’m interested in data. Be it financial data(which is one of my favorite), retail data, healthcare data...so basically 
+- 👀 I’m interested in data. Be it financial data(which is one of my favorite), retail data, healthcare data...
 - 🌱 I’m currently learning Excel, SQL, Python, Power BI, Tableau
-- 💞️ I’m looking for a Data Analyst job remotely or on-site(Austin area only)
 - 📫 How to reach me- www.linkedin.com/in/jsaini03 
 
 <!---
